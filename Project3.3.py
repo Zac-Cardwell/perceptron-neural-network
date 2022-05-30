@@ -1,3 +1,9 @@
+# The goal of this project was to have the perceptron determine if a given patient could have heart disease based off a data sheet from kaggle
+# The main factors the perceptron looked at was smoker, high BP, history of stroke, alcahol consumption, physical activity, diet, sex, and age
+
+
+
+
 import numpy as np
 import pandas as pd
 from project3_1 import *
